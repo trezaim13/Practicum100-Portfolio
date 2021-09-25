@@ -1,3 +1,4 @@
+
 # **Telecom: Identifying Ineffective Operators**
 
 The virtual telephony service CallMeMaybe is developing a new function that will give supervisors information on the least effective operators. An operator is considered ineffective if they have a large number of missed incoming calls (internal and external) and a long waiting time for incoming calls. Moreover, if an operator is supposed to make outgoing calls, a small number of them is also a sign of ineffectiveness.
@@ -29,3 +30,5 @@ The dataset `telecom_clients_us.csv` has the following columns:
 - `user_id`
 - `tariff_plan` — client's current plan
 - `date_start` — client's registration date
+
+## Please open file on nbviewer to view all the interractive graphs
