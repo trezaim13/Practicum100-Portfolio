@@ -12,7 +12,7 @@ The following projects were part of a semi-monthly assesment that we had to succ
 
 | Project Title              | Description                 | 
 | :-------------------- | :--------------------- |
-| **[Ineffective Phone Operators](/Ineffective-Operators-Study)**| Study of effectivness of phone operators for a virtual telephony service. [Tableau dashboard](https://public.tableau.com/profile/nulf#!/vizhome/YandexPracticum100Final/CallMeMaybe?publish=yes "Tableau viz") |
+| **[Ineffective Phone Operators](/Ineffective-Operators-Study)**| Study of effectivness of phone operators for a virtual telephony service. [Tableau dashboard](https://public.tableau.com/app/profile/hiba.asselman/viz/CallMeMaybeDashboard-Practicum100/CallMeMaybe-Dashboard) |
 | **[AB testing](/ab_testing)** | to gange hypothesis, analyse hypotheses and results of A/B testing. |
 | **[Games and platforms](/games_and_platforms)** | Identifing patterns that determine whether a game succeeds or not. Creating a user profile for each region. Testing statisical hypotheses. |
 | **[Taxi market](/taxi_market)** | Aim of the project is to find patterns in the available data to define passenger preferences and impact of external factors on rides. Testing hypothesis about the impact of weather on ride frequency. |
