@@ -13,7 +13,7 @@ The following projects were part of a semi-monthly assesment that we had to succ
 | Project Title              | Description                 | 
 | :-------------------- | :--------------------- |
 | **[Ineffective Phone Operators](/Ineffective-Operators-Study)**| Identifying ineffective operators for a virtual network called CallMeMaybe. [Tableau dashboard](https://public.tableau.com/app/profile/hiba.asselman/viz/CallMeMaybeDashboard-Practicum100/CallMeMaybe-Dashboard) / [Presentation](https://onedrive.live.com/view.aspx?resid=38DE65FEA6C833DE!1267&ithint=file%2cpptx&authkey=!AEGFHq1uUskevY4) |
-| **[Gym Churn Study](/Gym-Churn-Study)** | A machine learning projec aiming to develope a customer interaction strategy based on analytical data of the gym Model Fitness. In this project, we have to develop a model of prediction for the probability of churn (for the upcoming month) for each customer.|
+| **[Gym Churn Study](/Gym-Churn-Study)** | A machine learning project aiming to develope a customer interaction strategy based on analytical data of the gym Model Fitness. In this project, we have to develop a model of prediction for the probability of churn (for the upcoming month) for each customer.|
 | **[AB testing](/ab_testing)** | to gange hypothesis, analyse hypotheses and results of A/B testing. |
 | **[Games and platforms](/games_and_platforms)** | Identifing patterns that determine whether a game succeeds or not. Creating a user profile for each region. Testing statisical hypotheses. |
 | **[Taxi market](/taxi_market)** | Aim of the project is to find patterns in the available data to define passenger preferences and impact of external factors on rides. Testing hypothesis about the impact of weather on ride frequency. |
