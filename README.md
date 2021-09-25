@@ -1,7 +1,5 @@
 # Hiba Asselman - Data Analysis Portfolio
 
-[GitHub Repository](https://github.com/ulfsky/ulfsky.github.io)
-
 **This repository groups the projects I have worked on during my studies with Practicum100 by Yandex.**
 
 Hello, my name is hiba and I recently graduated the exclusive Data Analysis bootcamp "Practicum100" by Yandex. I was chosen among 100 other students, from 4000 applicants to complete this 9-month intensive online program designed to be trained to become successful Data Analysts. <br>
