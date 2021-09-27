@@ -37,7 +37,7 @@ Brief technical requirements:
     - `category_title` — the video category
     - `videos_count` — the number of videos in the trending section
 
-## Please open file on nbviewer to view all the interractive graphs
+## [Tableau Dashboard](https://public.tableau.com/app/profile/hiba.asselman/viz/ProjectDashboard_16260328905280/Dashboard1)
 
 
 
