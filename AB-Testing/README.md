@@ -1,7 +1,7 @@
 
 # **AB Testing**
 
-**[Project Notebook](https://github.com/trezaim13/Practicum100-Portfolio/blob/main/Sales-Funnel-and-Testing/Funnel-Study-and-Testing.ipynb)**
+**[Project Notebook](https://github.com/trezaim13/Practicum100-Portfolio/blob/main/AB-Testing/AB-Testing.ipynb)**
 
 This study is conducted for the benefice of the marketing department at **an online store**. We have compiled a list of hypotheses that may help boost revenue.
 **The goal from this study will be to prioritize these hypotheses, launch an A/B test, and analyze the results.**
