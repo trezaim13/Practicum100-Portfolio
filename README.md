@@ -17,7 +17,7 @@ The following projects were part of a semi-monthly assesment that we had to succ
 |**[Trending YouTube Videos](/Tableau-Dashboard)** | Analysis of trending YouTube videos by country and category [Tableau Dashboard](https://public.tableau.com/app/profile/hiba.asselman/viz/ProjectDashboard_16260328905280/Dashboard1) | 
 | **[Sales funnel](/sales_funnel)** |to investigate user behavior for the company's app (a startup that sells food products). First we will preprocess the data and study the sales funnel: find out how users reach the purchase stage, how many users actually make it to this stage, how many get stuck at previous stages. Next we will check the results of an A/A/B test: if change of the fonts for the entire app have any impact on users. We will pick up the equal number of users for all 3 groups and run a statistical test to check if there is a statistically significant difference in number of users for any of the events. |
 | **[Restaurant Market Study](/LA-Restaurant-Market-Study)** | Study of the current market of restaurants in LA using open source data, to study the possibility for the opening of a robot-run café in LA. [Presentation](https://1drv.ms/p/s!At4zyKb-Zd44iWti6PWLXulDHdhV?e=xKsCam)|
-| **[A/B Testing](/AB-Testing)** | A study to prioritizw hypotheses that may help boost revenue, launching an A/B test, and analyzing the results|
+| **[A/B Testing](/AB-Testing)** | A study to prioritize hypotheses that may help boost revenue, launching an A/B test, and analyzing the results|
 
 
 
