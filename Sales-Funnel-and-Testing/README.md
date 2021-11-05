@@ -1,6 +1,8 @@
 
 # **Sales Funnel and A/B Testing**
 
+**[Project Notebook](https://github.com/trezaim13/Practicum100-Portfolio/blob/main/Sales-Funnel-and-Testing/Funnel%20Study.ipynb)**
+
 This project is for the benefit of a virtual startup that sells food products. We need to investigate user behavior for the company's app.
 
 First we will study the sales funnel. Find out how users reach the purchase stage. How many users actually make it to this stage? How many get stuck at previous stages? Which stages in particular?
