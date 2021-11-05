@@ -1,7 +1,7 @@
 
 # **Sales Funnel and A/B Testing**
 
-**[Project Notebook](https://github.com/trezaim13/Practicum100-Portfolio/blob/main/Sales-Funnel-and-Testing/Funnel%20Study.ipynb)**
+**[Project Notebook](https://github.com/trezaim13/Practicum100-Portfolio/blob/main/Sales-Funnel-and-Testing/Funnel-Study-and-Testing.ipynb)**
 
 This project is for the benefit of a virtual startup that sells food products. We need to investigate user behavior for the company's app.
 
