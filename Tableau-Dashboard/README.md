@@ -1,5 +1,5 @@
 # **Tableau Dashboard : YouTube Trending Videos**
-I work as a video ad analyst at the Sterling & Draper advertising agency. I devote a lot of time to analyzing trending videos on YouTube to determine what content deserves marketing attention.
+I work as a video ad analyst at the Sterling & Draper advertising agency. I devote a lot of time to analyzing trending videos on YouTube to determine what content deserves marketing attention.  
 Each video has a specific category (Entertainment, Music, News & Politics, etc.), region, and trending date.
 
 A video can be in the trending section for several days in a row.
