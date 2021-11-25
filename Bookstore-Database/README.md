@@ -12,25 +12,25 @@ We have 5 datasets to work with :
 - books: Contains data on books:
   * book_id,
   * author_id,
-  * title,#
+  * title,
   * num_pages : number of pages,
   * publication_date,
   * publisher_id,
 - authors: Contains data on authors:
-* author_id,
-* author
+  * author_id,
+  * author
 - publishers: Contains data on publishers:
-* publisher_id,
-* publisher,
+  * publisher_id,
+  * publisher,
 - ratings: Contains data on user ratings:
-* rating_id,
-* book_id
-* username : the name of the user who rated the book,
-* rating
+  * rating_id,
+  * book_id
+  * username : the name of the user who rated the book,
+  * rating
 - reviews: Contains data on customer reviews:
-* review_id,
-* book_id
-* username  : the name of the user who reviewed the book
-* text : the text of the review
+  * review_id,
+  * book_id
+  * username  : the name of the user who reviewed the book
+  * text : the text of the review
 
 ## Please open file on nbviewer to view all the interractive graphs
