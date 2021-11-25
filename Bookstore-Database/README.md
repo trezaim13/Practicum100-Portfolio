@@ -10,12 +10,12 @@ We've been given a database of one of the services competing in this market. It 
 
 We have 5 datasets to work with : 
 - books: Contains data on books:
-* book_id,
-* author_id,
-* title,
-* num_pages : number of pages,
-* publication_date,
-* publisher_id,
+  * book_id,
+  * author_id,
+  * title,#
+  * num_pages : number of pages,
+  * publication_date,
+  * publisher_id,
 - authors: Contains data on authors:
 * author_id,
 * author
