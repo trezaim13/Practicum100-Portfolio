@@ -1,7 +1,7 @@
 
 # **Frequentist AB Testing**
 
-**[Project Notebook](https://github.com/trezaim13/Practicum100-Portfolio/blob/main/Frequentist-AB-Testing/Frequentist-AB-Test.ipynb)**
+**[Project Notebook](https://github.com/trezaim13/Practicum100-Portfolio/blob/main/Frequentist-AB-Test/Frequentist-AB-Test.ipynb)**
 
 This project is the continuation of an unachieved A/B test on 6000 users of the online store. **The goal of this A/B test is to test changes related to the introduction of an improved recommendation system with a new payment funnel.** 
     
